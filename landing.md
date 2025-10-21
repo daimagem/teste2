@@ -48,7 +48,7 @@ Criamos culturas de engajamento, desenvolvemos lideranças e promovemos retenç�
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>📌 3. Processos Otimizados (O Método):</h3>
+					<h2>📌 3. Processos Otimizados (O Método):</h2>
 				</header>
 				<p>Desenhamos fluxos de trabalho que trazem eficiência, reduzem burocracia e liberam o RH para focar no que realmente importa: a estratégia.</p>
 				<ul class="actions">
