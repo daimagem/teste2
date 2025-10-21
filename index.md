@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'BTA Intelligence'
-description: null
+description: Recrutamento e Seleção
 image: null
 author: null
 show_tile: false
