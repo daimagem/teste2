@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: BTA Intelligence
+subtitle: by DAIMAGEM
+email: btaintelligence@gmail.com
+description: Resultados inteligentes.
 baseurl: "/teste2" # the subpath of your site, e.g. /blog
 url: https://daimagem.github.io
 author:
