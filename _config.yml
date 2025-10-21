@@ -6,12 +6,12 @@ description: Resultados inteligentes.
 baseurl: "/teste2" # the subpath of your site, e.g. /blog
 url: https://daimagem.github.io
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: Av. Ana Costa 123
+city: Santos
+state: SP
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Brasil
+phone: (13) 99999-8888
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
