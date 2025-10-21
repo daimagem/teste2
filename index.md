@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'BTA Intelligence'
 description: Recrutamento e Seleção
-image: assets/images/1Ativo20126.jpg
+image: assets/images/1Ativo70.jpg
 author: null
 show_tile: false
 ---
